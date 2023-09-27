@@ -15,4 +15,3 @@ for i in range(1, n):
 
 insurances = np.array(insurances)
 print(sum(insurances >= 0))
-
